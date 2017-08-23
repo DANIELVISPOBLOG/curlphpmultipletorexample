@@ -4,6 +4,13 @@
 
 This is an example of how to use multiple instances of Tor with Curl and how to use random HTTP Request Headers. Also demonstrate how to renew the Tor circuit and get a new IP after every HTTP call.
 
+More Info:
+[How to connect Curl PHP with multiple Tor Proxies](https://www.vispo.org)
+and
+[How to install multiple Tor instances on Linux](https://www.vispo.org/2017/08/21/web-hacking-instalando-multiples-instancias-de-tor-para-ocultar-tu-ip/)
+
 The script is intended to run on the shell (PHP-CLI)
 
-From the command line just type "php example1.php"
+To run the example from the command line
+
+> ./example1.sh
